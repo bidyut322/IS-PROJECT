@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NEW NIQUAM</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">Logout</string>
+    <string name="submit">Submit</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="humidity_graph">Humidity Graph</string>
+    <string name="properties">Properties</string>
+    <string name="properties_2">Properties</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="temperature_graph">Temperature Graph</string>
+</resources>

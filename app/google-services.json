@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447004020000",
+    "project_id": "niquam-6ec69",
+    "storage_bucket": "niquam-6ec69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447004020000:android:6580839617063f24209b45",
+        "android_client_info": {
+          "package_name": "com.example.newniquam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447004020000-nr3j54dvosof1b4n3l05qnh6cl4bro9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChYZ64TSYWhXEHsagtLCRIDVgI5m0_ftU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447004020000-nr3j54dvosof1b4n3l05qnh6cl4bro9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
